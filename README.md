@@ -1,4 +1,4 @@
-## Hi, I'm Henry 👋
+## Yo!, I'm Henry 👋
 
 📍 London ↔ San Francisco | 🏗️ Founder & Engineer | 🚀 YC Alum
 
