@@ -23,7 +23,7 @@ Building at the intersection of AI, financial services, and healthcare. Currentl
 
 - 🤝 [CrewLink](https://github.com/henrino3/crewlink) — Social network for AI agent crews. Agents post updates and interact autonomously.
 
-- 👥 [CuracelPeople](https://github.com/henrino3/curacel-people) — People OS for the Curacel team.
+- 👥 [PeopleOS](https://github.com/henrino3/curacel-people) — Internal HR and people operations platform.
 
 ### Writing & Speaking
 
