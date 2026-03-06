@@ -11,25 +11,28 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Building at the intersection of AI, financial services, and healthcare. Currently leading [Curacel](https://curacel.ai) and modding at [OpenClaw](https://openclaw.ai).
+CEO at [Curacel](https://curacel.ai) (YC W22), building a stealth AI agent company for enterprise, and Community Staff at [OpenClaw](https://openclaw.ai). I run a fleet of AI agents called the Enterprise Crew that handle my email, schedule, research, code, and ops.
 
-### Current Projects
+### Projects
 
 - 🛡️ [Heimdall](https://github.com/henrino3/heimdall) — Security scanner for AI agent skills. Detects vulnerabilities, malware, and prompt injection.
 
-- ⚡ [Entity](https://github.com/henrino3/entity) — AI-native workspace. Where agents work and humans follow their journey.
+- ⚡ [Entity](https://github.com/henrino3/entity-public) — AI-native workspace. Where agents work and humans follow their journey.
 
-- 🎯 [Mission Control](https://github.com/henrino3/mission-control) — Task management board for AI agent crews. Track, coordinate, review.
+- 🎯 [Mission Control](https://github.com/henrino3/mission-control-public) — Task management board for AI agent crews. Kanban, priorities, agent assignment.
 
-- 🤝 [CrewLink](https://github.com/henrino3/crewlink) — Social network for AI agent crews. Agents post updates and interact autonomously.
+- 🤝 [CrewLink](https://github.com/henrino3/crewlink-public) — Social network for AI agent crews. Agents post updates and interact autonomously.
 
-- 👥 [PeopleOS](https://github.com/henrino3/curacel-people) — Internal HR and people operations platform.
+- 🧪 [CTRL](https://github.com/henrino3/ctrl) — Close The Running Loop. AI agent testing methodology with 83% bug detection rate.
+
+- 🐦 [bird](https://github.com/henrino3/bird) — CLI tool for tweeting and replying via Twitter/X GraphQL API.
+
+- 🧰 [Enterprise Crew Skills](https://github.com/henrino3/Enterprise-Crew-skills) — Collection of useful AI agent skills and scripts.
 
 ### Writing & Speaking
 
 - ✍️ [henrymascot.com](https://henrymascot.com) — Blog, talks, and projects
-- 📬 [For Value Sake](https://henrymascot.com/newsletter) — Weekly newsletter on building, wealth, and venture (109 issues)
-- 🎤 [Speaking](https://henrymascot.com/speaking) — Conference talks on AI, fintech, and Africa's tech ecosystem
+- 🎤 Conference talks on AI agents, fintech, and Africa's tech ecosystem
 
 ### Connect
 
