@@ -32,6 +32,7 @@ CEO at [Curacel](https://curacel.ai) (YC W22), building a stealth AI agent compa
 ### Writing & Speaking
 
 - ✍️ [henrymascot.com](https://henrymascot.com) — Blog, talks, and projects
+- - ✍️ [superada.ai](https://superada.ai) — Agents and Technical blog
 - 🎤 Conference talks on AI agents, fintech, and Africa's tech ecosystem
 
 ### Connect
