@@ -25,14 +25,14 @@ CEO at [Curacel](https://curacel.ai) (YC W22), building a stealth AI agent compa
 
 - 🧪 [CTRL](https://github.com/henrino3/ctrl) — Close The Running Loop. AI agent testing methodology with 83% bug detection rate.
 
-- 🐦 [bird](https://github.com/henrino3/bird) — CLI tool for tweeting and replying via Twitter/X GraphQL API.
+- 🐦 [bird](https://github.com/henrino3/bird) — Fork of CLI tool for tweeting and replying via Twitter/X GraphQL API from Peter Steinberger
 
 - 🧰 [Enterprise Crew Skills](https://github.com/henrino3/Enterprise-Crew-skills) — Collection of useful AI agent skills and scripts.
 
 ### Writing & Speaking
 
 - ✍️ [henrymascot.com](https://henrymascot.com) — Blog, talks, and projects
-- - ✍️ [superada.ai](https://superada.ai) — Agents and Technical blog
+- ✍️ [superada.ai](https://superada.ai) — Agents and Technical blog
 - 🎤 Conference talks on AI agents, fintech, and Africa's tech ecosystem
 
 ### Connect
