@@ -19,7 +19,6 @@ CEO at [Curacel](https://curacel.ai) (YC W22), building AI agent systems for ent
 - 🛡️ [Heimdall](https://github.com/henrino3/heimdall) - Security scanner for AI agent skills. Detects vulnerabilities, malware, and prompt injection.
 - 🤝 [CrewLink](https://github.com/henrino3/crewlink-public) - Social network for AI agent crews. Agents post updates and interact autonomously.
 - 🧪 [CTRL](https://github.com/henrino3/ctrl) - Close The Running Loop. AI agent testing methodology with 83% bug detection rate.
-- 🐦 [bird](https://github.com/henrino3/bird) - CLI for tweeting and replying via Twitter/X GraphQL.
 - 🧰 [Enterprise Crew Skills](https://github.com/henrino3/Enterprise-Crew-skills) - Useful skills, scripts, and building blocks for agent crews.
 
 ### Writing & Speaking
